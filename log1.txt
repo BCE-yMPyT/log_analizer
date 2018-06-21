@@ -1,0 +1,5 @@
+89.39.185.67 - - [22/Apr/2018:06:25:04 +0000] "POST /metrics/sticker/427 HTTP/1.1" 200 32 "-" "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I8200 Build/JDQ39)"
+89.39.185.67 - - [22/Apr/2018:06:25:11 +0000] "POST /metrics/sticker/428 HTTP/1.1" 200 32 "-" "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I8200 Build/JDQ39)"
+185.108.19.46 - - [22/Apr/2018:06:25:12 +0000] "POST /metrics/sticker/417 HTTP/1.1" 200 32 "-" "Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T561 Build/KTU84P)"
+79.245.80.8 - - [22/Apr/2018:06:25:27 +0000] "POST /metrics/sticker/430 HTTP/1.1" 200 32 "-" "Dalvik/1.6.0 (Linux; U; Android 4.4.2; Lenovo A3500-FL Build/KOT49H)"
+89.39.185.67 - - [23/Apr/2018:06:25:27 +0000] "POST /metrics/sticker/438 HTTP/1.1" 200 32 "-" "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I8200 Build/JDQ39)"
